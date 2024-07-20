@@ -60,7 +60,7 @@ const CategroyWiseProductDisplay = ({category, heading}) => {
                                         <p className='text-red-600 font-medium p-1 animate-pulse rounded-full bg-white w-full  py-2'></p>
                                         <p className='text-slate-500 line-through p-1 animate-pulse rounded-full bg-white w-full  py-2'></p>
                                     </div>
-                                    <button className='text-sm  text-white px-3  rounded-full bg-white  py-2 animate-pulse'></button>
+                                    <button className='text-sm  text-white px-3  rounded-full bg-red  py-2 animate-pulse'></button>
                                 </div>
                             </div>
                         )
